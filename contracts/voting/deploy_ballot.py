@@ -5,7 +5,7 @@ from contracts import *
 import base64
 import datetime
 
-creator_mnemonic = "provide afraid kite cotton famous glow subway pigeon mechanic pluck frequent base saddle rely unusual strategy pelican oven father planet want dune nominee able seminar"
+
 
 def get_private_key_from_mnemonic(mn):
     private_key = mnemonic.to_private_key(mn)
