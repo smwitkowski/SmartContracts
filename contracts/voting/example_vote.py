@@ -7,9 +7,6 @@ from algosdk import account, mnemonic
 from algosdk.v2client import algod
 
 # user declared account mnemonics
-creator_mnemonic = "obey aware hedgehog clarify shield ten catch another trash pact start seat bargain stereo bomb doll cage raise canoe water radio doctor crawl above ensure"
-user_mnemonic = "provide afraid kite cotton famous glow subway pigeon mechanic pluck frequent base saddle rely unusual strategy pelican oven father planet want dune nominee able seminar"
-
 # user declared algod connection parameters. Node must have EnableDeveloperAPI set to true in its config
 algod_address = "http://localhost:4001"
 algod_token = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
